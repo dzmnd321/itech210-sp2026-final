@@ -1,1 +1,4 @@
 #itech210-sp2026-final
+
+The White Buffalo Calf Woman is a sacred figure of Dakota history where she told a prophecy of the Dakota people who will be harmonious to the nature world and be gifted the seven sacred rites. She brought us the Chanunpa, or pipe, 19 generations ago by appearing in a cloud before bringing the sacred teachings to the Dakota people, she carried a pipe we now call the White Buffalo Calf Woman pipe, and it is currently held by Chief Arvol LookingHorse of Rosebud, ND. (Fun Fact: That is my adopted uncle)
+In this game the player is one of the men who found the White Buffalo Calf Woman and who she will teach the ways to, but only after he completes a few things for the Woman. Navigate through the world and collect the sacred teachings she gives to the people and bring them to the future generations. 
